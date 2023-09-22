@@ -5,7 +5,7 @@
 
 #include"arona/progress.h"
 
-#include"shittim/rl/traits.h"
+#include"shittim_rl/traits.h"
 
 namespace shittim {
 namespace rl {

@@ -3,7 +3,7 @@
 
 #include<vector>
 
-#include"shittim/rl/random.h"
+#include"shittim_rl/random.h"
 
 namespace shittim {
 namespace rl {

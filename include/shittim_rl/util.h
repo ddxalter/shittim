@@ -5,7 +5,7 @@
 
 #include<type_traits>
 
-#include"shittim/rl/traits.h"
+#include"shittim_rl/traits.h"
 
 namespace shittim {
 namespace rl {
