@@ -1,6 +1,6 @@
-[submodule "external/aronacpp"]
-	path = external/aronacpp
-	url = git@github.com:ddxalter/aronacpp.git
-[submodule "external/planacpp"]
-	path = external/planacpp
-	url = git@github.com:ddxalter/planacpp.git
+[submodule "external/arona"]
+	path = external/arona
+	url = git@github.com:ddxalter/arona.git
+[submodule "external/plana"]
+	path = external/plana
+	url = git@github.com:ddxalter/plana.git
