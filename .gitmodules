@@ -1,0 +1,6 @@
+[submodule "external/aronacpp"]
+	path = external/aronacpp
+	url = git@github.com:ddxalter/aronacpp.git
+[submodule "external/planacpp"]
+	path = external/planacpp
+	url = git@github.com:ddxalter/planacpp.git

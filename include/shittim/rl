@@ -1,0 +1,13 @@
+#ifndef SHITTIM_RL_
+#define SHITTIM_RL_
+
+#include"shittim_rl/core.h"
+#include"shittim_rl/random.h"
+#include"shittim_rl/spec.h"
+#include"shittim_rl/traits.h"
+#include"shittim_rl/trainer.h"
+#include"shittim_rl/factory.h"
+#include"shittim_rl/mathops.h"
+#include"shittim_rl/util.h"
+
+#endif // SHITTIM_RL_
